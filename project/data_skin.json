@@ -1,7 +1,7 @@
 {
   "Ads": [
     {
-      "skin_json":"https://raw.githubusercontent.com/cilicilitoz/astray501/main/medievalskins/medieval.json",
+      "skin_json":"https://raw.githubusercontent.com/packbambank/astray501/main/zombiesskin/zombies.json",
       "select_ads": "ADMOB",
       "status_app": "0",
       "link_redirect": "https://",
